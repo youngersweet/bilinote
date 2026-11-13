@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="cover" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d0c38c"/>
+      <stop offset="1" stop-color="#b5a875"/>
+    </linearGradient>
+    <linearGradient id="spine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#666b62"/>
+      <stop offset="1" stop-color="#818276"/>
+    </linearGradient>
+  </defs>
+  <path d="M58 33h145q20 0 20 20v153q0 25-24 25H62q-21 0-21-21V54q0-21 17-21Z" fill="#3c4038" opacity=".10"/>
+  <path d="M57 26h144q16 0 16 17v177H59q-20 0-20-20V45q0-19 18-19Z" fill="#777b6e" stroke="#686c60" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M59 182h158v33H60q-15 0-15-16t14-17Z" fill="#f1eddb" stroke="#918e76" stroke-width="2"/>
+  <path d="M65 194h140M65 203h140" fill="none" stroke="#d0ccb4" stroke-width="2" stroke-linecap="round"/>
+  <path d="M57 26h144q16 0 16 17v141H59q-20 0-20 18V45q0-19 18-19Z" fill="url(#cover)" stroke="#8f886c" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M57 26h18v158H59q-20 0-20 18V45q0-19 18-19Z" fill="url(#spine)"/>
+  <path d="M76 34v142" fill="none" stroke="#a9a17b" stroke-width="2"/>
+  <path d="M166 28h20v58l-10-8-10 8Z" fill="#ead7a0"/>
+  <path d="M99 81h44M99 100h73" fill="none" stroke="#747760" stroke-width="6" stroke-linecap="round" opacity=".85"/>
+  <path d="M99 135h55" fill="none" stroke="#e4d8ab" stroke-width="3" stroke-linecap="round"/>
+  <path d="M60 220h157" fill="none" stroke="#777b6e" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+build/
+*.egg-info/
+.env
+.env.*
+*.log
+auth.json
+auth/
+*.dpapi
+*session*.bin
+cookies*.txt
+生成笔记/
+models/
+outputs/
